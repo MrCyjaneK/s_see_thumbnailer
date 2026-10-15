@@ -1,0 +1,11 @@
+build-host/
+dist/
+_work/
+build/
+build-apple-*/
+build-android-*/
+build-linux-*/
+*.o
+*.so
+*.dylib
+compile_commands.json

@@ -1,0 +1,19 @@
+{
+  global:
+    SPACESEE_thumbnailer_load;
+    SPACESEE_thumbnailer_loadError;
+    SPACESEE_thumbnailer_unload;
+    SPACESEE_thumbnailer_isHeavy;
+    SPACESEE_thumbnailer_assetCount;
+    SPACESEE_thumbnailer_asset;
+    SPACESEE_thumbnailer_version;
+    SPACESEE_thumbnailer_extension;
+    SPACESEE_thumbnailer_filetypes;
+    SPACESEE_thumbnailer_maxInputSize;
+    SPACESEE_thumbnailer_analyze;
+    SPACESEE_thumbnailer_progress;
+    SPACESEE_thumbnailer_progressString;
+    SPACESEE_thumbnailer_free;
+  local:
+    *;
+};
